@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ChristianaAmadi
+- 👀 I’m interested in software products management 
+- 🌱 I’m currently learning to use kanban, figma and figjam to effectively manage product lifecycle
+- 💞️ I’m looking to collaborate on iterative software projects
+- 📫 Lets connect via christianaamadi26@gmail.com
+- 😄 I love adventures 
+- ⚡ When I,m not managing product processes, I brainstorm on changes to preexisting software products.
